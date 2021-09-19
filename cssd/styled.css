@@ -1,0 +1,49 @@
+
+.c img {
+  opacity: .5;
+  cursor: pointer;
+}
+
+.c img:hover {
+  opacity: 1;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 625%;
+}
+
+.Top{
+  background-color: #88FFF7;
+  padding-top: 90px;
+  position: relative;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Nanum Pen Script', cursive;
+}
+.lc{
+  position: absolute;
+}
+
+.uc{
+  position: absolute;
+  right: 300px;
+  top:40px;
+}
+.middle{
+
+}
+.bottom{
+
+}
+h2{
+  font-size: 5em;
+}
+p{
+  font-size: 3em;
+}
+.cr{
+  width=20%;
+}
